@@ -1,0 +1,13 @@
+# .gitignore
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+*.exe
+*.o
+*.obj
+*.log
+*.out
+*.user
