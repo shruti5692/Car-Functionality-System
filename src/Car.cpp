@@ -85,5 +85,5 @@ double Car::timeToDestination() const {
 }
 
 bool Car::hasArrived() const {
-    return calculateDistance(currentLocation, destination) < 0.05; // approx. 50 meters
+    return calculateDistance(currentLocation, destination) < 0.05; 
 }

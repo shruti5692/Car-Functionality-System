@@ -1,0 +1,2 @@
+C:\mingw-w64\mingw64\bin\ar.exe qc libcar.a CMakeFiles/car.dir/src/Car.cpp.obj
+C:\mingw-w64\mingw64\bin\ranlib.exe libcar.a
